@@ -19,3 +19,15 @@ Inside I practice using datetime format, check the frequency of responses to use
 ### VisualizeGenderGap
 
 This exercise focuses on drawing graphs using the matplotlib library. The data being compared relate to differences in the achievement of Bachelor's degrees. They show which directions are dominated by women, which are dominated by men, and which are balanced.
+
+### VisualizeGeographicData
+
+Here I'm learning the basics of the Basemap library. It contains data on airlines, airports and flight routes, which after calculation using the library allow to add points to the map of the world and draw routes.
+
+### Visualizing Earnings Based On College Majors
+
+Visualization of earnings based on data from students who graduated from college in 2010-2012, using mainly scatterplots and histograms. Analysis of the best and worst paid fields of majors and comparison of women's and men's earnings by specialization.
+
+### World Happiness
+
+Worldwide happiness analysis. Overview of the data by factors.
