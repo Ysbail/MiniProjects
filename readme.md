@@ -31,3 +31,7 @@ Visualization of earnings based on data from students who graduated from college
 ### World Happiness
 
 Worldwide happiness analysis. Overview of the data by factors.
+
+### eBayCars
+
+Analysis of the influence of factors like mileage or unrepaired damage on the price of a car. Search for the most frequently occurring results. 
