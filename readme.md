@@ -12,6 +12,10 @@ Each project is described inside. Below I will briefly summarize the most import
 
 Folder contains analyze of applications available in leading app stores - Google Play and Apple Store. The project is focused on the most commonly used and preferred applications.
 
+### [Exit Surveys](Exit surveys/Analyze_exit_surveys.ipynb)
+The link between age and dissatisfaction - exit surveys
+This miniproject focus on cleaning and transformation data to find the answer. There are exit surveys from two institutions: Departament of Education, Training and Employent and Technical and Further Education. 
+
 ### [Hackers News Posts](https://github.com/Ysbail/MiniProjects/tree/master/Hackers%20News%20Posts)
 
 Inside I practice using datetime format, check the frequency of responses to users posts and calculate the average number of comments by hour.
