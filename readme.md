@@ -12,7 +12,7 @@ Each project is described inside. Below I will briefly summarize the most import
 
 Folder contains analyze of applications available in leading app stores - Google Play and Apple Store. The project is focused on the most commonly used and preferred applications.
 
-### [Exit Surveys](Exit surveys/Analyze_exit_surveys.ipynb)
+### [Exit Surveys](https://github.com/Ysbail/MiniProjects/tree/master/Exit%20surveys)
 The link between age and dissatisfaction - exit surveys
 This miniproject focus on cleaning and transformation data to find the answer. There are exit surveys from two institutions: Departament of Education, Training and Employent and Technical and Further Education. 
 
