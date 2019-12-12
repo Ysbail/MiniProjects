@@ -14,11 +14,15 @@ Folder contains analyze of applications available in leading app stores - Google
 
 ### [Exit Surveys](https://github.com/Ysbail/MiniProjects/tree/master/Exit%20surveys)
 The link between age and dissatisfaction - exit surveys
-This miniproject focus on cleaning and transformation data to find the answer. There are exit surveys from two institutions: Departament of Education, Training and Employent and Technical and Further Education. 
+This miniproject focus on cleaning and transformation data to find the answer. There are exit surveys from two institutions: Departament of Education, Training and Employent and Technical and Further Education.
 
 ### [Hackers News Posts](https://github.com/Ysbail/MiniProjects/tree/master/Hackers%20News%20Posts)
 
 Inside I practice using datetime format, check the frequency of responses to users posts and calculate the average number of comments by hour.
+
+### [SQL](https://github.com/Ysbail/MiniProjects/tree/master/SQL)
+
+My labs with SQL. Database I am wrking with is this same as is the [Visualizing Earnings Based On College Majors](https://github.com/Ysbail/MiniProjects/tree/master/Visualizing%20Earnings%20Based%20On%20College%20Majors). This data relate to the relationship between the completed direction and the subsequent consequences, such as earnings or unemployment
 
 ### [VisualizeGenderGap](https://github.com/Ysbail/MiniProjects/tree/master/VisualizeGenderGap)
 
