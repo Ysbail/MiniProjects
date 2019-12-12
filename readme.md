@@ -22,7 +22,7 @@ Inside I practice using datetime format, check the frequency of responses to use
 
 ### [SQL](https://github.com/Ysbail/MiniProjects/tree/master/SQL)
 
-My labs with SQL. Database I am wrking with is this same as is the [Visualizing Earnings Based On College Majors](https://github.com/Ysbail/MiniProjects/tree/master/Visualizing%20Earnings%20Based%20On%20College%20Majors). This data relate to the relationship between the completed direction and the subsequent consequences, such as earnings or unemployment
+My labs with SQL. Database I am working with is this same as is the [Visualizing Earnings Based On College Majors](https://github.com/Ysbail/MiniProjects/tree/master/Visualizing%20Earnings%20Based%20On%20College%20Majors). This data relate to the relationship between the completed direction and the subsequent consequences, such as earnings or unemployment.
 
 ### [VisualizeGenderGap](https://github.com/Ysbail/MiniProjects/tree/master/VisualizeGenderGap)
 
