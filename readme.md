@@ -25,8 +25,9 @@ This miniproject focus on cleaning and transformation data to find the answer. T
 
 ### [Hackers News Posts](https://github.com/Ysbail/MiniProjects/tree/master/Hackers%20News%20Posts)
 
-Inside I practice using datetime format, check the frequency of responses to users posts and calculate the average number of comments by hour.
-<br>[Link to Notebook](https://github.com/Ysbail/MiniProjects/blob/master/Hackers%20News%20Posts/Exploring%20Posts.ipynb)
+Inside I practice using datetime format, check the frequency of responses to users posts and calculate the average number of comments by hour in the file 'Exploring Posts'. The second file is to train the RegExp.
+<br>[Link to Exploring Posts](https://github.com/Ysbail/MiniProjects/blob/master/Hackers%20News%20Posts/Exploring%20Posts.ipynb)
+<br>[Link to RegExp](https://github.com/Ysbail/MiniProjects/blob/master/Hackers%20News%20Posts/Regular_Expressions.ipynb)
 
 ### [SQL](https://github.com/Ysbail/MiniProjects/tree/master/SQL)
 
